@@ -29,6 +29,7 @@ Yapay Zekadan yararlanarak OpenF1 API verilerini tarayıcıda işleyerek aykır�
 F1 telemetri ürünümün gözlemlenebilirlik açığını merkezi loglama ve anomali tespitiyle kapatarak 100+ 4xx fırtınasını canlı alarm ile doğruladım; katı CSP ve security.txt ile Observatory A+ skoruna taşıdım.
 
 **Kullanılan YZ Aracı**: Google AI Studio
+
 Sitenin tasarımındaki yazılım süreçlerinde yardım amaçlı kullanılmıştır.
 
 **Yayınlanmış dosyaların orijinal çıktıdan farkı**: Kişisel tercihlerimden ötürü oluşturulan sitede var olmasını istemediğim bazı butonlar ve işlevleri temizledim.
