@@ -1,7 +1,6 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 import { Activity, ShieldAlert, Globe, Wifi, WifiOff, RefreshCw } from 'lucide-react';
-import { PWAInstallButton } from './pwa/PWAInstallButton';
 
 export const Header: React.FC = () => {
   const {
@@ -99,9 +98,6 @@ export const Header: React.FC = () => {
             </span>
           </button>
 
-
-          {/* PWA Install Button */}
-          <PWAInstallButton />
 
           {/* Language Switcher */}
           <button
