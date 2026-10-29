@@ -1,0 +1,1082 @@
+[
+  {
+    "session_key": 7953,
+    "session_name": "Bahrain Grand Prix (Sakhir)",
+    "circuit_short_name": "Sakhir",
+    "country_name": "Bahrain",
+    "year": 2023,
+    "date": "2023-03-05T15:00:00+00:00",
+    "location": "Sakhir"
+  },
+  {
+    "session_key": 7779,
+    "session_name": "Saudi Arabia Grand Prix (Jeddah)",
+    "circuit_short_name": "Jeddah",
+    "country_name": "Saudi Arabia",
+    "year": 2023,
+    "date": "2023-03-19T17:00:00+00:00",
+    "location": "Jeddah"
+  },
+  {
+    "session_key": 7787,
+    "session_name": "Australia Grand Prix (Melbourne)",
+    "circuit_short_name": "Melbourne",
+    "country_name": "Australia",
+    "year": 2023,
+    "date": "2023-04-02T05:00:00+00:00",
+    "location": "Melbourne"
+  },
+  {
+    "session_key": 9070,
+    "session_name": "Azerbaijan Grand Prix (Baku)",
+    "circuit_short_name": "Baku",
+    "country_name": "Azerbaijan",
+    "year": 2023,
+    "date": "2023-04-30T11:00:00+00:00",
+    "location": "Baku"
+  },
+  {
+    "session_key": 9078,
+    "session_name": "United States Grand Prix (Miami)",
+    "circuit_short_name": "Miami",
+    "country_name": "United States",
+    "year": 2023,
+    "date": "2023-05-07T19:30:00+00:00",
+    "location": "Miami"
+  },
+  {
+    "session_key": 9086,
+    "session_name": "Italy Grand Prix (Imola)",
+    "circuit_short_name": "Imola",
+    "country_name": "Italy",
+    "year": 2023,
+    "date": "2023-05-21T13:00:00+00:00",
+    "location": "Imola"
+  },
+  {
+    "session_key": 9094,
+    "session_name": "Monaco Grand Prix (Monte Carlo)",
+    "circuit_short_name": "Monte Carlo",
+    "country_name": "Monaco",
+    "year": 2023,
+    "date": "2023-05-28T13:00:00+00:00",
+    "location": "Monaco"
+  },
+  {
+    "session_key": 9102,
+    "session_name": "Spain Grand Prix (Catalunya)",
+    "circuit_short_name": "Catalunya",
+    "country_name": "Spain",
+    "year": 2023,
+    "date": "2023-06-04T13:00:00+00:00",
+    "location": "Barcelona"
+  },
+  {
+    "session_key": 9110,
+    "session_name": "Canada Grand Prix (Montreal)",
+    "circuit_short_name": "Montreal",
+    "country_name": "Canada",
+    "year": 2023,
+    "date": "2023-06-18T18:00:00+00:00",
+    "location": "Montréal"
+  },
+  {
+    "session_key": 9118,
+    "session_name": "Austria Grand Prix (Spielberg)",
+    "circuit_short_name": "Spielberg",
+    "country_name": "Austria",
+    "year": 2023,
+    "date": "2023-07-02T13:00:00+00:00",
+    "location": "Spielberg"
+  },
+  {
+    "session_key": 9126,
+    "session_name": "United Kingdom Grand Prix (Silverstone)",
+    "circuit_short_name": "Silverstone",
+    "country_name": "United Kingdom",
+    "year": 2023,
+    "date": "2023-07-09T14:00:00+00:00",
+    "location": "Silverstone"
+  },
+  {
+    "session_key": 9133,
+    "session_name": "Hungary Grand Prix (Hungaroring)",
+    "circuit_short_name": "Hungaroring",
+    "country_name": "Hungary",
+    "year": 2023,
+    "date": "2023-07-23T13:00:00+00:00",
+    "location": "Budapest"
+  },
+  {
+    "session_key": 9141,
+    "session_name": "Belgium Grand Prix (Spa-Francorchamps)",
+    "circuit_short_name": "Spa-Francorchamps",
+    "country_name": "Belgium",
+    "year": 2023,
+    "date": "2023-07-30T13:00:00+00:00",
+    "location": "Spa-Francorchamps"
+  },
+  {
+    "session_key": 9149,
+    "session_name": "Netherlands Grand Prix (Zandvoort)",
+    "circuit_short_name": "Zandvoort",
+    "country_name": "Netherlands",
+    "year": 2023,
+    "date": "2023-08-27T13:00:00+00:00",
+    "location": "Zandvoort"
+  },
+  {
+    "session_key": 9157,
+    "session_name": "Italy Grand Prix (Monza)",
+    "circuit_short_name": "Monza",
+    "country_name": "Italy",
+    "year": 2023,
+    "date": "2023-09-03T13:00:00+00:00",
+    "location": "Monza"
+  },
+  {
+    "session_key": 9165,
+    "session_name": "Singapore Grand Prix (Singapore)",
+    "circuit_short_name": "Singapore",
+    "country_name": "Singapore",
+    "year": 2023,
+    "date": "2023-09-17T12:00:00+00:00",
+    "location": "Marina Bay"
+  },
+  {
+    "session_key": 9173,
+    "session_name": "Japan Grand Prix (Suzuka)",
+    "circuit_short_name": "Suzuka",
+    "country_name": "Japan",
+    "year": 2023,
+    "date": "2023-09-24T05:00:00+00:00",
+    "location": "Suzuka"
+  },
+  {
+    "session_key": 9221,
+    "session_name": "Qatar Grand Prix (Lusail)",
+    "circuit_short_name": "Lusail",
+    "country_name": "Qatar",
+    "year": 2023,
+    "date": "2023-10-08T17:00:00+00:00",
+    "location": "Lusail"
+  },
+  {
+    "session_key": 9213,
+    "session_name": "United States Grand Prix (Austin)",
+    "circuit_short_name": "Austin",
+    "country_name": "United States",
+    "year": 2023,
+    "date": "2023-10-22T19:00:00+00:00",
+    "location": "Austin"
+  },
+  {
+    "session_key": 9181,
+    "session_name": "Mexico Grand Prix (Mexico City)",
+    "circuit_short_name": "Mexico City",
+    "country_name": "Mexico",
+    "year": 2023,
+    "date": "2023-10-29T20:00:00+00:00",
+    "location": "Mexico City"
+  },
+  {
+    "session_key": 9205,
+    "session_name": "Brazil Grand Prix (Interlagos)",
+    "circuit_short_name": "Interlagos",
+    "country_name": "Brazil",
+    "year": 2023,
+    "date": "2023-11-05T17:00:00+00:00",
+    "location": "São Paulo"
+  },
+  {
+    "session_key": 9189,
+    "session_name": "United States Grand Prix (Las Vegas)",
+    "circuit_short_name": "Las Vegas",
+    "country_name": "United States",
+    "year": 2023,
+    "date": "2023-11-19T06:00:00+00:00",
+    "location": "Las Vegas"
+  },
+  {
+    "session_key": 9197,
+    "session_name": "United Arab Emirates Grand Prix (Yas Marina Circuit)",
+    "circuit_short_name": "Yas Marina Circuit",
+    "country_name": "United Arab Emirates",
+    "year": 2023,
+    "date": "2023-11-26T13:00:00+00:00",
+    "location": "Yas Island"
+  },
+  {
+    "session_key": 9472,
+    "session_name": "Bahrain Grand Prix (Sakhir)",
+    "circuit_short_name": "Sakhir",
+    "country_name": "Bahrain",
+    "year": 2024,
+    "date": "2024-03-02T15:00:00+00:00",
+    "location": "Sakhir"
+  },
+  {
+    "session_key": 9480,
+    "session_name": "Saudi Arabia Grand Prix (Jeddah)",
+    "circuit_short_name": "Jeddah",
+    "country_name": "Saudi Arabia",
+    "year": 2024,
+    "date": "2024-03-09T17:00:00+00:00",
+    "location": "Jeddah"
+  },
+  {
+    "session_key": 9488,
+    "session_name": "Australia Grand Prix (Melbourne)",
+    "circuit_short_name": "Melbourne",
+    "country_name": "Australia",
+    "year": 2024,
+    "date": "2024-03-24T04:00:00+00:00",
+    "location": "Melbourne"
+  },
+  {
+    "session_key": 9496,
+    "session_name": "Japan Grand Prix (Suzuka)",
+    "circuit_short_name": "Suzuka",
+    "country_name": "Japan",
+    "year": 2024,
+    "date": "2024-04-07T05:00:00+00:00",
+    "location": "Suzuka"
+  },
+  {
+    "session_key": 9673,
+    "session_name": "China Grand Prix (Shanghai)",
+    "circuit_short_name": "Shanghai",
+    "country_name": "China",
+    "year": 2024,
+    "date": "2024-04-21T07:00:00+00:00",
+    "location": "Shanghai"
+  },
+  {
+    "session_key": 9507,
+    "session_name": "United States Grand Prix (Miami)",
+    "circuit_short_name": "Miami",
+    "country_name": "United States",
+    "year": 2024,
+    "date": "2024-05-05T20:00:00+00:00",
+    "location": "Miami"
+  },
+  {
+    "session_key": 9515,
+    "session_name": "Italy Grand Prix (Imola)",
+    "circuit_short_name": "Imola",
+    "country_name": "Italy",
+    "year": 2024,
+    "date": "2024-05-19T13:00:00+00:00",
+    "location": "Imola"
+  },
+  {
+    "session_key": 9523,
+    "session_name": "Monaco Grand Prix (Monte Carlo)",
+    "circuit_short_name": "Monte Carlo",
+    "country_name": "Monaco",
+    "year": 2024,
+    "date": "2024-05-26T13:00:00+00:00",
+    "location": "Monaco"
+  },
+  {
+    "session_key": 9531,
+    "session_name": "Canada Grand Prix (Montreal)",
+    "circuit_short_name": "Montreal",
+    "country_name": "Canada",
+    "year": 2024,
+    "date": "2024-06-09T18:00:00+00:00",
+    "location": "Montréal"
+  },
+  {
+    "session_key": 9539,
+    "session_name": "Spain Grand Prix (Catalunya)",
+    "circuit_short_name": "Catalunya",
+    "country_name": "Spain",
+    "year": 2024,
+    "date": "2024-06-23T13:00:00+00:00",
+    "location": "Barcelona"
+  },
+  {
+    "session_key": 9550,
+    "session_name": "Austria Grand Prix (Spielberg)",
+    "circuit_short_name": "Spielberg",
+    "country_name": "Austria",
+    "year": 2024,
+    "date": "2024-06-30T13:00:00+00:00",
+    "location": "Spielberg"
+  },
+  {
+    "session_key": 9558,
+    "session_name": "United Kingdom Grand Prix (Silverstone)",
+    "circuit_short_name": "Silverstone",
+    "country_name": "United Kingdom",
+    "year": 2024,
+    "date": "2024-07-07T14:00:00+00:00",
+    "location": "Silverstone"
+  },
+  {
+    "session_key": 9566,
+    "session_name": "Hungary Grand Prix (Hungaroring)",
+    "circuit_short_name": "Hungaroring",
+    "country_name": "Hungary",
+    "year": 2024,
+    "date": "2024-07-21T13:00:00+00:00",
+    "location": "Budapest"
+  },
+  {
+    "session_key": 9574,
+    "session_name": "Belgium Grand Prix (Spa-Francorchamps)",
+    "circuit_short_name": "Spa-Francorchamps",
+    "country_name": "Belgium",
+    "year": 2024,
+    "date": "2024-07-28T13:00:00+00:00",
+    "location": "Spa-Francorchamps"
+  },
+  {
+    "session_key": 9582,
+    "session_name": "Netherlands Grand Prix (Zandvoort)",
+    "circuit_short_name": "Zandvoort",
+    "country_name": "Netherlands",
+    "year": 2024,
+    "date": "2024-08-25T13:00:00+00:00",
+    "location": "Zandvoort"
+  },
+  {
+    "session_key": 9590,
+    "session_name": "Italy Grand Prix (Monza)",
+    "circuit_short_name": "Monza",
+    "country_name": "Italy",
+    "year": 2024,
+    "date": "2024-09-01T13:00:00+00:00",
+    "location": "Monza"
+  },
+  {
+    "session_key": 9598,
+    "session_name": "Azerbaijan Grand Prix (Baku)",
+    "circuit_short_name": "Baku",
+    "country_name": "Azerbaijan",
+    "year": 2024,
+    "date": "2024-09-15T11:00:00+00:00",
+    "location": "Baku"
+  },
+  {
+    "session_key": 9606,
+    "session_name": "Singapore Grand Prix (Singapore)",
+    "circuit_short_name": "Singapore",
+    "country_name": "Singapore",
+    "year": 2024,
+    "date": "2024-09-22T12:00:00+00:00",
+    "location": "Marina Bay"
+  },
+  {
+    "session_key": 9617,
+    "session_name": "United States Grand Prix (Austin)",
+    "circuit_short_name": "Austin",
+    "country_name": "United States",
+    "year": 2024,
+    "date": "2024-10-20T19:00:00+00:00",
+    "location": "Austin"
+  },
+  {
+    "session_key": 9625,
+    "session_name": "Mexico Grand Prix (Mexico City)",
+    "circuit_short_name": "Mexico City",
+    "country_name": "Mexico",
+    "year": 2024,
+    "date": "2024-10-27T20:00:00+00:00",
+    "location": "Mexico City"
+  },
+  {
+    "session_key": 9636,
+    "session_name": "Brazil Grand Prix (Interlagos)",
+    "circuit_short_name": "Interlagos",
+    "country_name": "Brazil",
+    "year": 2024,
+    "date": "2024-11-03T15:30:00+00:00",
+    "location": "São Paulo"
+  },
+  {
+    "session_key": 9644,
+    "session_name": "United States Grand Prix (Las Vegas)",
+    "circuit_short_name": "Las Vegas",
+    "country_name": "United States",
+    "year": 2024,
+    "date": "2024-11-24T06:00:00+00:00",
+    "location": "Las Vegas"
+  },
+  {
+    "session_key": 9655,
+    "session_name": "Qatar Grand Prix (Lusail)",
+    "circuit_short_name": "Lusail",
+    "country_name": "Qatar",
+    "year": 2024,
+    "date": "2024-12-01T16:00:00+00:00",
+    "location": "Lusail"
+  },
+  {
+    "session_key": 9662,
+    "session_name": "United Arab Emirates Grand Prix (Yas Marina Circuit)",
+    "circuit_short_name": "Yas Marina Circuit",
+    "country_name": "United Arab Emirates",
+    "year": 2024,
+    "date": "2024-12-08T13:00:00+00:00",
+    "location": "Yas Island"
+  },
+  {
+    "session_key": 9693,
+    "session_name": "Australia Grand Prix (Melbourne)",
+    "circuit_short_name": "Melbourne",
+    "country_name": "Australia",
+    "year": 2025,
+    "date": "2025-03-16T04:00:00+00:00",
+    "location": "Melbourne"
+  },
+  {
+    "session_key": 9998,
+    "session_name": "China Grand Prix (Shanghai)",
+    "circuit_short_name": "Shanghai",
+    "country_name": "China",
+    "year": 2025,
+    "date": "2025-03-23T07:00:00+00:00",
+    "location": "Shanghai"
+  },
+  {
+    "session_key": 10006,
+    "session_name": "Japan Grand Prix (Suzuka)",
+    "circuit_short_name": "Suzuka",
+    "country_name": "Japan",
+    "year": 2025,
+    "date": "2025-04-06T05:00:00+00:00",
+    "location": "Suzuka"
+  },
+  {
+    "session_key": 10014,
+    "session_name": "Bahrain Grand Prix (Sakhir)",
+    "circuit_short_name": "Sakhir",
+    "country_name": "Bahrain",
+    "year": 2025,
+    "date": "2025-04-13T15:00:00+00:00",
+    "location": "Sakhir"
+  },
+  {
+    "session_key": 10022,
+    "session_name": "Saudi Arabia Grand Prix (Jeddah)",
+    "circuit_short_name": "Jeddah",
+    "country_name": "Saudi Arabia",
+    "year": 2025,
+    "date": "2025-04-20T17:00:00+00:00",
+    "location": "Jeddah"
+  },
+  {
+    "session_key": 10033,
+    "session_name": "United States Grand Prix (Miami)",
+    "circuit_short_name": "Miami",
+    "country_name": "United States",
+    "year": 2025,
+    "date": "2025-05-04T20:00:00+00:00",
+    "location": "Miami Gardens"
+  },
+  {
+    "session_key": 9987,
+    "session_name": "Italy Grand Prix (Imola)",
+    "circuit_short_name": "Imola",
+    "country_name": "Italy",
+    "year": 2025,
+    "date": "2025-05-18T13:00:00+00:00",
+    "location": "Imola"
+  },
+  {
+    "session_key": 9979,
+    "session_name": "Monaco Grand Prix (Monte Carlo)",
+    "circuit_short_name": "Monte Carlo",
+    "country_name": "Monaco",
+    "year": 2025,
+    "date": "2025-05-25T13:00:00+00:00",
+    "location": "Monaco"
+  },
+  {
+    "session_key": 9971,
+    "session_name": "Spain Grand Prix (Catalunya)",
+    "circuit_short_name": "Catalunya",
+    "country_name": "Spain",
+    "year": 2025,
+    "date": "2025-06-01T13:00:00+00:00",
+    "location": "Barcelona"
+  },
+  {
+    "session_key": 9963,
+    "session_name": "Canada Grand Prix (Montreal)",
+    "circuit_short_name": "Montreal",
+    "country_name": "Canada",
+    "year": 2025,
+    "date": "2025-06-15T18:00:00+00:00",
+    "location": "Montréal"
+  },
+  {
+    "session_key": 9955,
+    "session_name": "Austria Grand Prix (Spielberg)",
+    "circuit_short_name": "Spielberg",
+    "country_name": "Austria",
+    "year": 2025,
+    "date": "2025-06-29T13:00:00+00:00",
+    "location": "Spielberg"
+  },
+  {
+    "session_key": 9947,
+    "session_name": "United Kingdom Grand Prix (Silverstone)",
+    "circuit_short_name": "Silverstone",
+    "country_name": "United Kingdom",
+    "year": 2025,
+    "date": "2025-07-06T14:00:00+00:00",
+    "location": "Silverstone"
+  },
+  {
+    "session_key": 9939,
+    "session_name": "Belgium Grand Prix (Spa-Francorchamps)",
+    "circuit_short_name": "Spa-Francorchamps",
+    "country_name": "Belgium",
+    "year": 2025,
+    "date": "2025-07-27T13:00:00+00:00",
+    "location": "Spa-Francorchamps"
+  },
+  {
+    "session_key": 9928,
+    "session_name": "Hungary Grand Prix (Hungaroring)",
+    "circuit_short_name": "Hungaroring",
+    "country_name": "Hungary",
+    "year": 2025,
+    "date": "2025-08-03T13:00:00+00:00",
+    "location": "Budapest"
+  },
+  {
+    "session_key": 9920,
+    "session_name": "Netherlands Grand Prix (Zandvoort)",
+    "circuit_short_name": "Zandvoort",
+    "country_name": "Netherlands",
+    "year": 2025,
+    "date": "2025-08-31T13:00:00+00:00",
+    "location": "Zandvoort"
+  },
+  {
+    "session_key": 9912,
+    "session_name": "Italy Grand Prix (Monza)",
+    "circuit_short_name": "Monza",
+    "country_name": "Italy",
+    "year": 2025,
+    "date": "2025-09-07T13:00:00+00:00",
+    "location": "Monza"
+  },
+  {
+    "session_key": 9904,
+    "session_name": "Azerbaijan Grand Prix (Baku)",
+    "circuit_short_name": "Baku",
+    "country_name": "Azerbaijan",
+    "year": 2025,
+    "date": "2025-09-21T11:00:00+00:00",
+    "location": "Baku"
+  },
+  {
+    "session_key": 9896,
+    "session_name": "Singapore Grand Prix (Singapore)",
+    "circuit_short_name": "Singapore",
+    "country_name": "Singapore",
+    "year": 2025,
+    "date": "2025-10-05T12:00:00+00:00",
+    "location": "Marina Bay"
+  },
+  {
+    "session_key": 9888,
+    "session_name": "United States Grand Prix (Austin)",
+    "circuit_short_name": "Austin",
+    "country_name": "United States",
+    "year": 2025,
+    "date": "2025-10-19T19:00:00+00:00",
+    "location": "Austin"
+  },
+  {
+    "session_key": 9877,
+    "session_name": "Mexico Grand Prix (Mexico City)",
+    "circuit_short_name": "Mexico City",
+    "country_name": "Mexico",
+    "year": 2025,
+    "date": "2025-10-26T20:00:00+00:00",
+    "location": "Mexico City"
+  },
+  {
+    "session_key": 9869,
+    "session_name": "Brazil Grand Prix (Interlagos)",
+    "circuit_short_name": "Interlagos",
+    "country_name": "Brazil",
+    "year": 2025,
+    "date": "2025-11-09T17:00:00+00:00",
+    "location": "São Paulo"
+  },
+  {
+    "session_key": 9858,
+    "session_name": "United States Grand Prix (Las Vegas)",
+    "circuit_short_name": "Las Vegas",
+    "country_name": "United States",
+    "year": 2025,
+    "date": "2025-11-23T04:00:00+00:00",
+    "location": "Las Vegas"
+  },
+  {
+    "session_key": 9850,
+    "session_name": "Qatar Grand Prix (Lusail)",
+    "circuit_short_name": "Lusail",
+    "country_name": "Qatar",
+    "year": 2025,
+    "date": "2025-11-30T16:00:00+00:00",
+    "location": "Lusail"
+  },
+  {
+    "session_key": 9839,
+    "session_name": "United Arab Emirates Grand Prix (Yas Marina Circuit)",
+    "circuit_short_name": "Yas Marina Circuit",
+    "country_name": "United Arab Emirates",
+    "year": 2025,
+    "date": "2025-12-07T13:00:00+00:00",
+    "location": "Yas Island"
+  },
+  {
+    "session_key": 11234,
+    "session_name": "Australia Grand Prix (Melbourne)",
+    "circuit_short_name": "Melbourne",
+    "country_name": "Australia",
+    "year": 2026,
+    "date": "2026-03-08T04:00:00+00:00",
+    "location": "Melbourne"
+  },
+  {
+    "session_key": 11245,
+    "session_name": "China Grand Prix (Shanghai)",
+    "circuit_short_name": "Shanghai",
+    "country_name": "China",
+    "year": 2026,
+    "date": "2026-03-15T07:00:00+00:00",
+    "location": "Shanghai"
+  },
+  {
+    "session_key": 11253,
+    "session_name": "Japan Grand Prix (Suzuka)",
+    "circuit_short_name": "Suzuka",
+    "country_name": "Japan",
+    "year": 2026,
+    "date": "2026-03-29T05:00:00+00:00",
+    "location": "Suzuka"
+  },
+  {
+    "session_key": 11261,
+    "session_name": "Bahrain Grand Prix (Sakhir)",
+    "circuit_short_name": "Sakhir",
+    "country_name": "Bahrain",
+    "year": 2026,
+    "date": "2026-04-12T15:00:00+00:00",
+    "location": "Sakhir"
+  },
+  {
+    "session_key": 11269,
+    "session_name": "Saudi Arabia Grand Prix (Jeddah)",
+    "circuit_short_name": "Jeddah",
+    "country_name": "Saudi Arabia",
+    "year": 2026,
+    "date": "2026-04-19T17:00:00+00:00",
+    "location": "Jeddah"
+  },
+  {
+    "session_key": 11280,
+    "session_name": "United States Grand Prix (Miami)",
+    "circuit_short_name": "Miami",
+    "country_name": "United States",
+    "year": 2026,
+    "date": "2026-05-03T17:00:00+00:00",
+    "location": "Miami Gardens"
+  },
+  {
+    "session_key": 11291,
+    "session_name": "Canada Grand Prix (Montreal)",
+    "circuit_short_name": "Montreal",
+    "country_name": "Canada",
+    "year": 2026,
+    "date": "2026-05-24T20:00:00+00:00",
+    "location": "Montréal"
+  },
+  {
+    "session_key": 11299,
+    "session_name": "Monaco Grand Prix (Monte Carlo)",
+    "circuit_short_name": "Monte Carlo",
+    "country_name": "Monaco",
+    "year": 2026,
+    "date": "2026-06-07T13:00:00+00:00",
+    "location": "Monte Carlo"
+  },
+  {
+    "session_key": 11307,
+    "session_name": "Spain Grand Prix (Catalunya)",
+    "circuit_short_name": "Catalunya",
+    "country_name": "Spain",
+    "year": 2026,
+    "date": "2026-06-14T13:00:00+00:00",
+    "location": "Barcelona"
+  },
+  {
+    "session_key": 11315,
+    "session_name": "Austria Grand Prix (Spielberg)",
+    "circuit_short_name": "Spielberg",
+    "country_name": "Austria",
+    "year": 2026,
+    "date": "2026-06-28T13:00:00+00:00",
+    "location": "Spielberg"
+  },
+  {
+    "session_key": 11326,
+    "session_name": "United Kingdom Grand Prix (Silverstone)",
+    "circuit_short_name": "Silverstone",
+    "country_name": "United Kingdom",
+    "year": 2026,
+    "date": "2026-07-05T14:00:00+00:00",
+    "location": "Silverstone"
+  },
+  {
+    "session_key": 11334,
+    "session_name": "Belgium Grand Prix (Spa-Francorchamps)",
+    "circuit_short_name": "Spa-Francorchamps",
+    "country_name": "Belgium",
+    "year": 2026,
+    "date": "2026-07-19T13:00:00+00:00",
+    "location": "Spa-Francorchamps"
+  },
+  {
+    "session_key": 11342,
+    "session_name": "Hungary Grand Prix (Hungaroring)",
+    "circuit_short_name": "Hungaroring",
+    "country_name": "Hungary",
+    "year": 2026,
+    "date": "2026-07-26T13:00:00+00:00",
+    "location": "Budapest"
+  },
+  {
+    "session_key": 11353,
+    "session_name": "Netherlands Grand Prix (Zandvoort)",
+    "circuit_short_name": "Zandvoort",
+    "country_name": "Netherlands",
+    "year": 2026,
+    "date": "2026-08-23T13:00:00+00:00",
+    "location": "Zandvoort"
+  },
+  {
+    "session_key": 11361,
+    "session_name": "Italy Grand Prix (Monza)",
+    "circuit_short_name": "Monza",
+    "country_name": "Italy",
+    "year": 2026,
+    "date": "2026-09-06T13:00:00+00:00",
+    "location": "Monza"
+  },
+  {
+    "session_key": 11369,
+    "session_name": "Spain Grand Prix (Madring)",
+    "circuit_short_name": "Madring",
+    "country_name": "Spain",
+    "year": 2026,
+    "date": "2026-09-13T13:00:00+00:00",
+    "location": "Madrid"
+  },
+  {
+    "session_key": 11377,
+    "session_name": "Azerbaijan Grand Prix (Baku)",
+    "circuit_short_name": "Baku",
+    "country_name": "Azerbaijan",
+    "year": 2026,
+    "date": "2026-09-26T11:00:00+00:00",
+    "location": "Baku"
+  },
+  {
+    "session_key": 11731,
+    "session_name": "Bahrain Grand Prix (Kuala Lumpur)",
+    "circuit_short_name": "Kuala Lumpur",
+    "country_name": "Bahrain",
+    "year": 2026,
+    "date": "2026-10-04T07:00:00+00:00",
+    "location": "Kuala Lumpur"
+  },
+  {
+    "session_key": 11388,
+    "session_name": "Singapore Grand Prix (Singapore)",
+    "circuit_short_name": "Singapore",
+    "country_name": "Singapore",
+    "year": 2026,
+    "date": "2026-10-11T12:00:00+00:00",
+    "location": "Marina Bay"
+  },
+  {
+    "session_key": 11396,
+    "session_name": "United States Grand Prix (Austin)",
+    "circuit_short_name": "Austin",
+    "country_name": "United States",
+    "year": 2026,
+    "date": "2026-10-25T20:00:00+00:00",
+    "location": "Austin"
+  },
+  {
+    "session_key": 11404,
+    "session_name": "Mexico Grand Prix (Mexico City)",
+    "circuit_short_name": "Mexico City",
+    "country_name": "Mexico",
+    "year": 2026,
+    "date": "2026-11-01T20:00:00+00:00",
+    "location": "Mexico City"
+  },
+  {
+    "session_key": 11412,
+    "session_name": "Brazil Grand Prix (Interlagos)",
+    "circuit_short_name": "Interlagos",
+    "country_name": "Brazil",
+    "year": 2026,
+    "date": "2026-11-08T17:00:00+00:00",
+    "location": "São Paulo"
+  },
+  {
+    "session_key": 11420,
+    "session_name": "United States Grand Prix (Las Vegas)",
+    "circuit_short_name": "Las Vegas",
+    "country_name": "United States",
+    "year": 2026,
+    "date": "2026-11-22T04:00:00+00:00",
+    "location": "Las Vegas"
+  },
+  {
+    "session_key": 11428,
+    "session_name": "Qatar Grand Prix (Lusail)",
+    "circuit_short_name": "Lusail",
+    "country_name": "Qatar",
+    "year": 2026,
+    "date": "2026-11-29T16:00:00+00:00",
+    "location": "Lusail"
+  },
+  {
+    "session_key": 11436,
+    "session_name": "United Arab Emirates Grand Prix (Yas Marina Circuit)",
+    "circuit_short_name": "Yas Marina Circuit",
+    "country_name": "United Arab Emirates",
+    "year": 2026,
+    "date": "2026-12-06T13:00:00+00:00",
+    "location": "Yas Marina"
+  },
+  {
+    "session_key": 92713105,
+    "session_name": "Bahrain Grand Prix (Sakhir)",
+    "circuit_short_name": "Sakhir",
+    "country_name": "Bahrain",
+    "year": 2027,
+    "date": "2027-03-14T11:00:00+00:00",
+    "location": "Bahrain"
+  },
+  {
+    "session_key": 92713115,
+    "session_name": "Saudi Arabia Grand Prix (Jeddah)",
+    "circuit_short_name": "Jeddah",
+    "country_name": "Saudi Arabia",
+    "year": 2027,
+    "date": "2027-03-21T11:00:00+00:00",
+    "location": "Jeddah"
+  },
+  {
+    "session_key": 92713125,
+    "session_name": "Australia Grand Prix (Melbourne)",
+    "circuit_short_name": "Melbourne",
+    "country_name": "Australia",
+    "year": 2027,
+    "date": "2027-04-04T04:00:00+00:00",
+    "location": "Melbourne"
+  },
+  {
+    "session_key": 92713135,
+    "session_name": "Japan Grand Prix (Suzuka)",
+    "circuit_short_name": "Suzuka",
+    "country_name": "Japan",
+    "year": 2027,
+    "date": "2027-04-11T05:00:00+00:00",
+    "location": "Suzuka"
+  },
+  {
+    "session_key": 92713145,
+    "session_name": "China Grand Prix (Shanghai)",
+    "circuit_short_name": "Shanghai",
+    "country_name": "China",
+    "year": 2027,
+    "date": "2027-04-18T06:00:00+00:00",
+    "location": "Shanghai"
+  },
+  {
+    "session_key": 92713155,
+    "session_name": "United States Grand Prix (Miami)",
+    "circuit_short_name": "Miami",
+    "country_name": "United States",
+    "year": 2027,
+    "date": "2027-05-02T20:00:00+00:00",
+    "location": "Miami Gardens"
+  },
+  {
+    "session_key": 92713165,
+    "session_name": "Canada Grand Prix (Montreal)",
+    "circuit_short_name": "Montreal",
+    "country_name": "Canada",
+    "year": 2027,
+    "date": "2027-05-23T20:00:00+00:00",
+    "location": "Montréal"
+  },
+  {
+    "session_key": 92713175,
+    "session_name": "Monaco Grand Prix (Monte Carlo)",
+    "circuit_short_name": "Monte Carlo",
+    "country_name": "Monaco",
+    "year": 2027,
+    "date": "2027-06-06T13:00:00+00:00",
+    "location": "Monte Carlo"
+  },
+  {
+    "session_key": 92713185,
+    "session_name": "Portugal Grand Prix (Algarve International Circuit)",
+    "circuit_short_name": "Algarve International Circuit",
+    "country_name": "Portugal",
+    "year": 2027,
+    "date": "2027-06-20T14:00:00+00:00",
+    "location": "Portimão"
+  },
+  {
+    "session_key": 92713195,
+    "session_name": "United Kingdom Grand Prix (Silverstone)",
+    "circuit_short_name": "Silverstone",
+    "country_name": "United Kingdom",
+    "year": 2027,
+    "date": "2027-07-04T14:00:00+00:00",
+    "location": "Silverstone"
+  },
+  {
+    "session_key": 92713205,
+    "session_name": "Austria Grand Prix (Spielberg)",
+    "circuit_short_name": "Spielberg",
+    "country_name": "Austria",
+    "year": 2027,
+    "date": "2027-07-11T13:00:00+00:00",
+    "location": "Spielberg"
+  },
+  {
+    "session_key": 92713215,
+    "session_name": "Belgium Grand Prix (Spa-Francorchamps)",
+    "circuit_short_name": "Spa-Francorchamps",
+    "country_name": "Belgium",
+    "year": 2027,
+    "date": "2027-07-25T13:00:00+00:00",
+    "location": "Spa-Francorchamps"
+  },
+  {
+    "session_key": 92713225,
+    "session_name": "Hungary Grand Prix (Hungaroring)",
+    "circuit_short_name": "Hungaroring",
+    "country_name": "Hungary",
+    "year": 2027,
+    "date": "2027-08-01T13:00:00+00:00",
+    "location": "Budapest"
+  },
+  {
+    "session_key": 92713235,
+    "session_name": "Italy Grand Prix (Monza)",
+    "circuit_short_name": "Monza",
+    "country_name": "Italy",
+    "year": 2027,
+    "date": "2027-09-05T13:00:00+00:00",
+    "location": "Monza"
+  },
+  {
+    "session_key": 92713245,
+    "session_name": "Spain Grand Prix (Madring)",
+    "circuit_short_name": "Madring",
+    "country_name": "Spain",
+    "year": 2027,
+    "date": "2027-09-12T13:00:00+00:00",
+    "location": "Madrid"
+  },
+  {
+    "session_key": 92713255,
+    "session_name": "Azerbaijan Grand Prix (Baku)",
+    "circuit_short_name": "Baku",
+    "country_name": "Azerbaijan",
+    "year": 2027,
+    "date": "2027-09-26T10:00:00+00:00",
+    "location": "Baku"
+  },
+  {
+    "session_key": 92713265,
+    "session_name": "Turkey Grand Prix (Istanbul)",
+    "circuit_short_name": "Istanbul",
+    "country_name": "Turkey",
+    "year": 2027,
+    "date": "2027-10-03T11:00:00+00:00",
+    "location": "Istanbul"
+  },
+  {
+    "session_key": 92713275,
+    "session_name": "Singapore Grand Prix (Singapore)",
+    "circuit_short_name": "Singapore",
+    "country_name": "Singapore",
+    "year": 2027,
+    "date": "2027-10-10T06:00:00+00:00",
+    "location": "Marina Bay"
+  },
+  {
+    "session_key": 92713285,
+    "session_name": "United States Grand Prix (Austin)",
+    "circuit_short_name": "Austin",
+    "country_name": "United States",
+    "year": 2027,
+    "date": "2027-10-24T21:00:00+00:00",
+    "location": "Austin"
+  },
+  {
+    "session_key": 92713295,
+    "session_name": "Mexico Grand Prix (Mexico City)",
+    "circuit_short_name": "Mexico City",
+    "country_name": "Mexico",
+    "year": 2027,
+    "date": "2027-10-31T21:00:00+00:00",
+    "location": "Mexico City"
+  },
+  {
+    "session_key": 92713305,
+    "session_name": "Brazil Grand Prix (Interlagos)",
+    "circuit_short_name": "Interlagos",
+    "country_name": "Brazil",
+    "year": 2027,
+    "date": "2027-11-07T18:00:00+00:00",
+    "location": "São Paulo"
+  },
+  {
+    "session_key": 92713315,
+    "session_name": "United States Grand Prix (Las Vegas)",
+    "circuit_short_name": "Las Vegas",
+    "country_name": "United States",
+    "year": 2027,
+    "date": "2027-11-20T23:00:00+00:00",
+    "location": "Las Vegas"
+  },
+  {
+    "session_key": 92713325,
+    "session_name": "Qatar Grand Prix (Lusail)",
+    "circuit_short_name": "Lusail",
+    "country_name": "Qatar",
+    "year": 2027,
+    "date": "2027-12-05T11:00:00+00:00",
+    "location": "Lusail"
+  },
+  {
+    "session_key": 92713335,
+    "session_name": "United Arab Emirates Grand Prix (Yas Marina Circuit)",
+    "circuit_short_name": "Yas Marina Circuit",
+    "country_name": "United Arab Emirates",
+    "year": 2027,
+    "date": "2027-12-12T10:00:00+00:00",
+    "location": "Yas Marina"
+  }
+]
