@@ -1,20 +1,31 @@
-&#x20;  # F1 Race Intelligence \& Cloud Security
+ # F1 Race Intelligence \& Cloud Security
 
 
 
-&#x20;  Motor sporları telemetrisi ve yarış analitiği paneli.
+ Motor sporları telemetrisi ve yarış analitiği paneli.
 
 
 
-&#x20;  ## Çalıştırma
+## Çalıştırma
 
-&#x20;  npm install
+```npm install```
 
-&#x20;  npm run dev
+```npm run dev```
 
 
 
-&#x20;  ## Build
+## Build
 
-&#x20;  npm run build
+````npm run build````
 
+Canlı Site:
+https://f1analiz.salihsul27.workers.dev/
+
+<details>
+<summary>Ne Yaptım?</summary>
+
+OpenF1 API verilerini tarayıcıda işleyerek aykırı turlardan arındırılmış pilot telemetrisi, bump chart ve pit stratejisi sunan, çevrimdışı önbellek dayanıklılığına sahip PWA uyumlu yarış analiz panosu geliştirdim.
+
+F1 telemetri ürünümün gözlemlenebilirlik açığını merkezi loglama ve anomali tespitiyle kapatarak 100+ 4xx fırtınasını canlı alarm ile doğruladım; katı CSP ve security.txt ile Observatory A+ skoruna taşıdım.
+
+</details>
